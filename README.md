@@ -41,7 +41,7 @@ TeXlive2022+TeXstudio，也可通过自行配置vscode for latex，emacs for lat
 
 - $\LaTeX$不便于批改与标注，如指导老师或学校有其他要求请勿使用！
 
-- 对于word有较强需求的同学，但又不舍得放弃$\LaTeX$，可通过PDF转换器或pandoc进行转换
+- 对于word有较强需求的同学，但又不舍得放弃$\LaTeX$，可通过PDF转换器或pandoc进行转换。
 
 - word模板请参考[华南农业大学本科生毕业论文（设计）撰写规范](https://jwc.scau.edu.cn/2012/0101/c5130a146500/page.htm)
 
