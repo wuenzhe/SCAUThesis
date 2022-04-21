@@ -29,9 +29,7 @@ TeXlive2022+TeXstudio，也可通过自行配置vscode for latex，emacs for lat
 - 由于$\LaTeX$表格编写较为困难，可借助[Create LaTeX tables online](https://www.tablesgenerator.com/#)进行代码生成；
 - 公式生成可参考AxMath插件；
 
-### 贡献者
-
-**班级：**2018级经济管理学院农林经济管理（丁颖创新班）
+### 联系方式
 
 **Email：**enzhewu@outlook.com
 
