@@ -10,24 +10,24 @@
 \contentsline {section}{\numberline {4}变量选取与模型设定}{4}{}%
 \contentsline {subsection}{\numberline {4.1}变量选取}{4}{}%
 \contentsline {subsubsection}{\numberline {4.1.1}被解释变量}{4}{}%
-\contentsline {subsubsection}{\numberline {4.1.2}解释变量}{5}{}%
-\contentsline {subsection}{\numberline {4.2}模型设定}{5}{}%
-\contentsline {section}{\numberline {5}计量结果与实证分析}{6}{}%
-\contentsline {subsection}{\numberline {5.1}基准回归模型}{6}{}%
-\contentsline {subsubsection}{\numberline {5.1.1}模型一的结果}{6}{}%
-\contentsline {subsubsection}{\numberline {5.1.2}模型二的结果}{6}{}%
-\contentsline {subsubsection}{\numberline {5.1.3}模型三的结果}{6}{}%
-\contentsline {subsection}{\numberline {5.2}稳健性检验}{6}{}%
-\contentsline {subsubsection}{\numberline {5.2.1}检验方式一}{6}{}%
-\contentsline {subsubsection}{\numberline {5.2.2}检验方式二}{6}{}%
-\contentsline {subsubsection}{\numberline {5.2.3}检验方式三}{6}{}%
-\contentsline {subsection}{\numberline {5.3}异质性分析}{6}{}%
-\contentsline {subsubsection}{\numberline {5.3.1}异质性一}{6}{}%
-\contentsline {subsubsection}{\numberline {5.3.2}异质性二}{6}{}%
-\contentsline {section}{\numberline {6}拓展性探究}{6}{}%
-\contentsline {section}{\numberline {7}主要结论与政策含义}{6}{}%
+\contentsline {subsubsection}{\numberline {4.1.2}解释变量}{4}{}%
+\contentsline {subsection}{\numberline {4.2}模型设定}{4}{}%
+\contentsline {section}{\numberline {5}计量结果与实证分析}{5}{}%
+\contentsline {subsection}{\numberline {5.1}基准回归模型}{5}{}%
+\contentsline {subsubsection}{\numberline {5.1.1}模型一的结果}{5}{}%
+\contentsline {subsubsection}{\numberline {5.1.2}模型二的结果}{5}{}%
+\contentsline {subsubsection}{\numberline {5.1.3}模型三的结果}{5}{}%
+\contentsline {subsection}{\numberline {5.2}稳健性检验}{5}{}%
+\contentsline {subsubsection}{\numberline {5.2.1}检验方式一}{5}{}%
+\contentsline {subsubsection}{\numberline {5.2.2}检验方式二}{5}{}%
+\contentsline {subsubsection}{\numberline {5.2.3}检验方式三}{5}{}%
+\contentsline {subsection}{\numberline {5.3}异质性分析}{5}{}%
+\contentsline {subsubsection}{\numberline {5.3.1}异质性一}{5}{}%
+\contentsline {subsubsection}{\numberline {5.3.2}异质性二}{5}{}%
+\contentsline {section}{\numberline {6}拓展性探究}{5}{}%
+\contentsline {section}{\numberline {7}主要结论与政策含义}{5}{}%
 \contentsline {section}{参考文献}{6}{}%
-\contentsline {section}{附录A：图表}{6}{}%
-\contentsline {section}{附录B：计算程序}{6}{}%
-\contentsline {section}{致谢}{6}{}%
+\contentsline {section}{附录A：图表}{7}{}%
+\contentsline {section}{附录B：计算程序}{8}{}%
+\contentsline {section}{致谢}{9}{}%
 \contentsfinish 
